@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:olga.franco@fresenius-kabi.com
 TEL;type=WORK;type=VOICE:+57 3153431189
 item1.ADR;type=WORK;type=pref:;;Av. Carrera 7 # 155c - 20\nPiso 40\, Bogotá, Colombia
 item1.X-ABADR:sg
-item2.URL;type=pref:www.fresenius-kabi.com
+item2.URL;type=pref:www.fresenius-kabi.com/co/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
